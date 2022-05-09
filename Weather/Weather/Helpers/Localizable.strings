@@ -1,0 +1,20 @@
+// MARK: - List
+
+"list.navigationTitle" = "Cities";
+"list.header" = "Choose the city to see the weather.";
+
+// MARK: - Detai
+
+"header.daysHeader" = "5-day forecast";
+
+// MARK: - Error
+
+"error.title" = "Oops :(";
+"error.message.malformedUrl" = "We didn't find the desired information.\nPlease, try again.";
+"error.message.internalServer" = "We had a problem with our servers.\nPlease, try again.";
+"error.actionTitle" = "Try again";
+
+// MARK: - Empty
+
+"empty.title" = "Empty data :(";
+"empty.message" = "Come back soon!";

@@ -1,4 +1,5 @@
 import Foundation
+
 enum APIError: Error {
     case malformedUrl
     case internalServer
